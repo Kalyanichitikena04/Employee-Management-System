@@ -1,0 +1,32 @@
+body{
+    font-family: Arial;
+    background:#f4f6f9;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    padding:20px;
+}
+
+form{
+    display:flex;
+    gap:10px;
+    flex-wrap:wrap;
+}
+
+input{
+    padding:10px;
+}
+
+button{
+    padding:10px 20px;
+    cursor:pointer;
+}
+
+.employee-card{
+    background:white;
+    margin:10px 0;
+    padding:15px;
+    border-radius:8px;
+}
